@@ -25,7 +25,7 @@
   "homepage": "https://github.com/blinkmobile/html-class-data.js#readme",
   "devDependencies": {
     "browserify": "^10.2",
-    "eslint": "^0.23.0",
+    "eslint": "^0.24.0",
     "eslint-config-semistandard": "^4.0",
     "eslint-config-standard": "^3.3",
     "istanbul": "^0.3.15",
@@ -39,6 +39,6 @@
     "README.md"
   ],
   "dependencies": {
-    "lodash.camelcase": "^3.0.1"
+    "lodash.camelcase": "3.0.1"
   }
 }
